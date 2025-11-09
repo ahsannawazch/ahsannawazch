@@ -20,7 +20,7 @@ I developed **Breast Cancer detection** system using Wisconsin state dataset for
 - **Agent Frameworks:** LangGraph, LangChain, pydantic-ai, CrewAI, OpenAI Agents SDK, Google Agents Builder
 - **Cloud:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - **API & Deployment:** FastAPI, Docker
-- **RAG Systems:** Multimodal RAG system development using SOTA ColQwen retriever.
+- **RAG Systems:** Multimodal RAG system development using SOTA ColQwen retriever and Qwen Vison models.
 
 ---
 
