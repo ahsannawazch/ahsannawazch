@@ -7,9 +7,8 @@
 ## 🚀 About Me
 
 I'm a Machine Learning Engineer with a passion for building intelligent systems and AI agents. My expertise spans the fine-tuning and training encoder/decoder models and deploying them in production along with crafting multi-agent AI workflows. I work with a variety of advanced frameworks like **LangGraph**, **LangChain**, **pydantic-ai**, **CrewAI** and **OpenAI Agents SDK** to build innovative solutions. Additionally, I also work on **Multimodal RAG systems** leveraging cutting-edge techniques for retrieval-augmented generation. 
-I also partcipate in kaggle competitions currently ranked 22nd in Disaster tweet competion among 1000+ participants. 
-I developed Breast Cancer detection system using Wisconsin state dataset for my FYP in the university.
-– check it out on my GitHub repo!
+I also partcipate in** kaggle competitions currently ranked 22nd in Disaster tweet competition** among 1000+ participants. 
+I developed **Breast Cancer detection** system using Wisconsin state dataset for my FYP in the university.
 
 ---
 
